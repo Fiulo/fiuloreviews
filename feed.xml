@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Fiulo Reviews</title>
+    <link href="https://fiulo.github.io/fiuloreviews/feed.xml" rel="self" />
+    <link href="https://fiulo.github.io/fiuloreviews" />
+    <updated>2023-09-29T11:10:14+01:00</updated>
+    <author>
+        <name>Fiulo</name>
+    </author>
+    <id>https://fiulo.github.io/fiuloreviews</id>
+
+    <entry>
+        <title>Hello world!</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://fiulo.github.io/fiuloreviews/hello-world.html"/>
+        <id>https://fiulo.github.io/fiuloreviews/hello-world.html</id>
+
+        <updated>2023-09-29T11:10:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to Fiulo's Blog Sites. This is your first post. Edit or delete it, then start writing!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to <a href="https://fiulo.com/">Fiulo's Blog Sites</a>. This is your first post. Edit or delete it, then start writing!</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sample Page</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://fiulo.github.io/fiuloreviews/sample-page.html"/>
+        <id>https://fiulo.github.io/fiuloreviews/sample-page.html</id>
+
+        <updated>2023-09-29T11:10:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:paragraph --></p>
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote">
+<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>
+</blockquote>
+<p>
+<!-- /wp:quote --></p>
+<p><!-- wp:paragraph --></p>
+<p>...or something like this:</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote">
+<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
+</blockquote>
+<p>
+<!-- /wp:quote --></p>
+<p><!-- wp:paragraph --></p>
+<p>As a new WordPress user, you should go to <a href="https://reviews.fiulo.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
