@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Fiulo Reviews</title>
-    <link href="https://fiulo.github.io/fiuloreviews/feed.xml" rel="self" />
-    <link href="https://fiulo.github.io/fiuloreviews" />
+    <link href="https://reviews.fiulo.com/feed.xml" rel="self" />
+    <link href="https://reviews.fiulo.com" />
     <updated>2023-09-29T11:10:14+01:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
-    <id>https://fiulo.github.io/fiuloreviews</id>
+    <id>https://reviews.fiulo.com</id>
 
     <entry>
         <title>Hello world!</title>
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/fiuloreviews/hello-world.html"/>
-        <id>https://fiulo.github.io/fiuloreviews/hello-world.html</id>
+        <link href="https://reviews.fiulo.com/hello-world.html"/>
+        <id>https://reviews.fiulo.com/hello-world.html</id>
 
         <updated>2023-09-29T11:10:14+01:00</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/fiuloreviews/sample-page.html"/>
-        <id>https://fiulo.github.io/fiuloreviews/sample-page.html</id>
+        <link href="https://reviews.fiulo.com/sample-page.html"/>
+        <id>https://reviews.fiulo.com/sample-page.html</id>
 
         <updated>2023-09-29T11:10:14+01:00</updated>
             <summary>

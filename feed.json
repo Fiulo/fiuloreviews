@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Fiulo Reviews",
     "description": "",
-    "home_page_url": "https://fiulo.github.io/fiuloreviews",
-    "feed_url": "https://fiulo.github.io/fiuloreviews/feed.json",
+    "home_page_url": "https://reviews.fiulo.com",
+    "feed_url": "https://reviews.fiulo.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Fiulo"
     },
     "items": [
         {
-            "id": "https://fiulo.github.io/fiuloreviews/hello-world.html",
-            "url": "https://fiulo.github.io/fiuloreviews/hello-world.html",
+            "id": "https://reviews.fiulo.com/hello-world.html",
+            "url": "https://reviews.fiulo.com/hello-world.html",
             "title": "Hello world!",
             "summary": "Welcome to Fiulo's Blog Sites. This is your first post. Edit or delete it, then start writing!",
             "content_html": "<p>Welcome to <a href=\"https://fiulo.com/\">Fiulo's Blog Sites</a>. This is your first post. Edit or delete it, then start writing!</p>\n",
@@ -24,8 +24,8 @@
             "date_modified": "2023-09-29T11:10:14+01:00"
         },
         {
-            "id": "https://fiulo.github.io/fiuloreviews/sample-page.html",
-            "url": "https://fiulo.github.io/fiuloreviews/sample-page.html",
+            "id": "https://reviews.fiulo.com/sample-page.html",
+            "url": "https://reviews.fiulo.com/sample-page.html",
             "title": "Sample Page",
             "summary": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:quote --></p>\n<blockquote class=\"wp-block-quote\">\n<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>\n</blockquote>\n<p>\n<!-- /wp:quote --></p>\n<p><!-- wp:paragraph --></p>\n<p>...or something like this:</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:quote --></p>\n<blockquote class=\"wp-block-quote\">\n<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>\n</blockquote>\n<p>\n<!-- /wp:quote --></p>\n<p><!-- wp:paragraph --></p>\n<p>As a new WordPress user, you should go to <a href=\"https://reviews.fiulo.com/wp-admin/\">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>\n<p>\n<!-- /wp:paragraph --></p>\n",
